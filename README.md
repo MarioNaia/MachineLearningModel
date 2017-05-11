@@ -1,3 +1,3 @@
 # MachineLearningModel
 
-![alt text](MachineLearningModel/ModelML.png)
+![alt text](https://github.com/MarioNaia/MachineLearningModel/blob/master/ModelML.png)
