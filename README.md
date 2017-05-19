@@ -40,6 +40,9 @@
 + You can take the features from "Feature Engineering" process and combine them with the meta-features from 1st Level
 + Be aware of the Stacking you are making, some of it might make no sense and makes data worse
 
+&nbsp;
+
+
 **Final**
 + Where you make the weighted average of either or both Geometrical and Arithmetical means of the outputs of 2nd Level
 + Be aware the weights you use and when to use Geometrical and Arithmetical means.
