@@ -29,12 +29,11 @@
 
 &nbsp;
 
-**Stacking**
-+ **1st Level Machine Learning**
+**1st Level Machine Learning**
 +  Where you apply Machine learning algorithms (supervised/unsupervised, classification/regression)
-+  You can output a meta-feature
++  You output a meta-feature
 
-+ **2nd Level Machine Learning**
+**2nd Level Machine Learning (Stacking) **
 +  Where you apply Machine learning algorithms (supervised/unsupervised, classification/regression)
 +  You can take the features from "Feature Engineering" process and combine them with the meta-features from 1st Level
 +  Be aware of the Stacking you are making, some of it might make no sense and makes data worse
