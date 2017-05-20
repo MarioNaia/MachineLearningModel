@@ -1,6 +1,6 @@
 # MachineLearningModel
 
-![alt text](https://github.com/MarioNaia/MachineLearningModel/blob/master/ModelML.png)
+![alt text](https://github.com/MarioNaia/MachineLearningModel/blob/master/machlearn.png)
 
 &nbsp;
 
